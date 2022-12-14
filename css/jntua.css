@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: #7f8581;
+    padding:30px;
+    color:#ffffff;
+    font-size: 50px;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    background-color: #abd6d0;
+    width:30%;
+    padding: 30px;
+    height: 400px;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+article {
+    float: left;
+    width: 70%;
+    height: 400px;
+    background-color: #d8e6c1;
+}
+
+footer {
+    background-color: #a7f7fa;
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+}
